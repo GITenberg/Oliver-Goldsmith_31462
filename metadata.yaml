@@ -1,0 +1,25 @@
+_repo: Oliver-Goldsmith_31462
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buckland, E. S. Lang
+    gutenberg_agent_id: '35247'
+    url: http://www.gutenberg.org/2009/agents/35247
+description: ''
+gutenberg_issued: '2010-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31462'
+  lccn: 09023256
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goldsmith, Oliver, 1730?-1774'
+- !lcc 'PR'
+title: Oliver Goldsmith
+url: http://www.gutenberg.org/ebooks/31462
